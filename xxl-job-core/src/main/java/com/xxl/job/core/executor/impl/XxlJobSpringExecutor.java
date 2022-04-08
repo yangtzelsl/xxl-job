@@ -28,6 +28,7 @@ public class XxlJobSpringExecutor extends XxlJobExecutor implements ApplicationC
 
 
     // start
+    // 入口
     @Override
     public void afterSingletonsInstantiated() {
 
